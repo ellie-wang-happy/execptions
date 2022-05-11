@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"assignment2","c":"FishHandler","l":"easterEnding(int)"},{"p":"assignment2","c":"FishHandler","l":"easterStarting(int)"},{"p":"assignment2","c":"FishHandler","l":"ENDDATE"},{"p":"assignment2","c":"FishHandler","l":"FishHandler()","url":"%3Cinit%3E()"},{"p":"assignment2","c":"FishHandler","l":"main(String[])","url":"main(java.lang.String[])"}]

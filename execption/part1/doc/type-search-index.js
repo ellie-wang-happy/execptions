@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"assignment2","l":"CatHandler"},{"p":"assignment2","l":"CatHandler.ExceptionAlpha"},{"p":"assignment2","l":"CatHandler.ExceptionBeta"},{"p":"assignment2","l":"CatHandler.ExceptionGammer"}]
